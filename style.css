@@ -1,0 +1,43 @@
+
+body{font-family: "raleway"; }
+div.re{border: 1px black solid;
+border-radius: 20px;}
+img.yi{ 
+    border-radius:100%;
+}
+img.lo{background-color: #f2f2f2;
+border-radius: 100%;}
+button.re{background-color: #0065fc;
+color: white;
+border-left: solid;
+border-radius: 10px/10px;
+
+}
+img.yi{width: 50px; ;background-color: #deebff;
+border-radius: 100%;}
+div.ec{border: 1px black solid;
+border-radius: 20px;}
+div.bo{border: 1px black solid;
+    border-radius: 20px;}
+div.ro{border: 1px black solid;
+    border-radius: 20px;}
+div.ch{border: 1px black solid;
+    border-radius: 20px;}
+div.ic{}
+img.ha{ width: 500px;text-align: center;}
+button{border-radius:20%;
+border: white solid;}
+div.ha{background-color: #f2f2f2;
+    text-align: center;}
+article.hebergements{background-color: white;}
+article.port{background-color: white;}
+article.mouettes{background-color: white;}
+article.mer{background-color: white;}
+article.panier{background-color: white;}
+article.amina{background-color: white;}
+article.apropos{background-color:#f2f2f2;}
+article.soleil{background-color: white;}
+article.eau{background-color: white;}
+article.bleu{background-color: white;}
+img.ha{border-radius:30px;}
+article:hover{}
