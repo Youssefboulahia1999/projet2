@@ -1,12 +1,12 @@
 
 body{font-family: "raleway"; }
 section.top-page{display: flex;align-items: center; justify-content: space-between;}
-a{justify-content: space-around;}
+
 ul.navigation {
-        list-style-type: none;
-        display: inline;
-        padding-left: 30px;
-    display: block;
+    
+    display: flex;
+    list-style-type: none;
+    padding-left: 30px;
     margin-right: 15px;
     text-align: center;}
 div.re{border: 1px black solid;padding-right: 10px;
