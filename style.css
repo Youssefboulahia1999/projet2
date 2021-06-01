@@ -39,13 +39,12 @@ align-items: center;}
 div.le{display: flex;margin: 10px; justify-content: space-between;}
 
 div.hh{background-color: #f2f2f2;
-margin:30px;
+margin:20px;
 height: 900px; width: 700px; border-radius:30px;}
-div.ha{text-align: center;border-radius:30px; width: 1000px; height: 900px; background-color:#f2f2f2; margin: 30px;}
-section.l1{display: flex;
-justify-content: space-around;}
-section.l2{display:flex;
-justify-content: space-around;}
+div.ha{text-align: center;border-radius:30px; width: 1000px; height: 900px; background-color:#f2f2f2; margin: 20px;}
+section.l1{display: flex;justify-content: space-around;margin-top: 50px;}
+section.l2{display:flex; justify-content: space-around;margin-top: 50px; margin-bottom: 50px;}
+
 article.hebergements{background-color: white; margin: 15px; border-radius:30px;box-shadow: 5px 5px 5px black}
 article.port{background-color: white;margin: 15px; border-radius:30px;box-shadow: 5px 5px 5px black}
 article.mouettes{background-color: white;margin: 15px; border-radius:30px;box-shadow: 5px 5px 5px black}
@@ -56,10 +55,10 @@ img.ha{ width: 250px; height: 150px;text-align: center;margin: 5px;border-radius
 
 article.apropos{background-color:#f2f2f2;}
 div.le {display:flex justify-content:space-around;}
-article.soleil{background-color: white;display: flex; align-items: center;} div.sls{margin: 10px;}
-article.eau{background-color: white;display: flex; align-items: center;} div.sls1{margin: 10px;}
-article.bleu{background-color: white;display: flex; align-items: center;} div.sls2{margin: 10px;}
-img.pp{width: 250px; height: 150px;}
+article.soleil{margin: 40px;border-radius:30px;box-shadow: 5px 5px 5px black margin-right: 200px; background-color: white;display: flex; align-items: center;margin-bottom: 100px;} div.sls{margin: 10px;}
+article.eau{margin: 40px;border-radius:30px;box-shadow: 5px 5px 5px black margin-right: 200px; background-color: white;display: flex; align-items: center;margin-bottom: 100px;} div.sls1{margin: 10px;}
+article.bleu{ margin: 40px;border-radius:30px;box-shadow: 5px 5px 5px black margin-right: 200px; background-color: white;display: flex; align-items: center;} div.sls2{margin: 10px;}
+img.pp{width: 250px; height: 150px; border-radius:30px 0px 0px 30px;margin: 5px;}
 
 section.re{display: flex; justify-content: space-around;}
 article{margin-top: 30px;}
