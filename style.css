@@ -37,7 +37,7 @@ section.gg{display: flex;
     justify-content: space-between;
 align-items: center;}
 div.le{display: flex;margin: 10px; justify-content: space-between;}
-div.tt{margin-left: 15px;}
+div.tt{margin-left: 20px;}
 div.hh{background-color: #f2f2f2;
 margin:20px;
 height: 900px; width: 600px; border-radius:30px;}
@@ -61,11 +61,18 @@ article.bleu{ margin: 30px;border-radius:30px;box-shadow: 5px 5px 5px black; bac
 img.pp{width: 250px; height: 200px; border-radius:30px 0px 0px 30px;margin: 5px;}
 
 section.re{display: flex;justify-content: space-around;}
-article.w1{box-shadow: 5px 5px 5px black;}
-article.w3{box-shadow: 5px 5px 5px black;}
-img.ii{ width: 400px; height: 150px;}
+article.w1{box-shadow: 5px 5px 5px black; border-radius:30px; height: 600px;}
+article.w2{height: 600px;}
+article.w3{box-shadow: 5px 5px 5px black; border-radius:30px; height: 600px;}
+article.w4{height: 600px;}
+div.w1{box-shadow: 5px 5px 5px black; border-radius:30px}
+div.w2{box-shadow: 5px 5px 5px black; border-radius:30px;margin-top: 60px;}
+div.w3{box-shadow: 5px 5px 5px black; border-radius:30px}
+div.w4{box-shadow: 5px 5px 5px black; border-radius:30px;margin-top: 60px;}
+img.ii{ width: 400px; height: 225px; border-radius:30px 30px 0px 0px;}
 img.ia{ width: 400px; height: 500px; border-radius:30px 30px 0px 0px;}
-
+div.ti{margin-left: 30px;}
+div.ta{}
 
 
 article{margin-top: 30px;}
