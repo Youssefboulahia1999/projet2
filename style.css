@@ -33,7 +33,11 @@ div.ch{border: 1px black solid;
 div.filtres{display: flex; margin: 30px 0; }
 div.ic{display:flex; align-items: center; }
 img.ha{ width: 300px; height: 200px;text-align: center;}
-
+section.gg{display: flex;
+align-items: center;}
+div.le{display: flex;margin: 10px; justify-content: space-between;}
+div.hh{background-color: #f2f2f2;
+margin:30px;}
 div.ha{text-align: center; background-color:#f2f2f2}
 section.l1{display: flex;
 justify-content: space-around;}
@@ -47,10 +51,15 @@ article.panier{background-color: white;}
 article.amina{background-color: white;}
 article.apropos{background-color:#f2f2f2;}
 div.le {display:flex justify-content:space-around;    PROBLEME}
-article.soleil{background-color: white;}
-article.eau{background-color: white;}
-article.bleu{background-color: white;}
+article.soleil{background-color: white;display: flex; align-items: center;} div.sls{margin: 10px;}
+article.eau{background-color: white;display: flex; align-items: center;} div.sls1{margin: 10px;}
+article.bleu{background-color: white;display: flex; align-items: center;} div.sls2{margin: 10px;}
 img.ha{border-radius:30px;}
 section.re{display: flex; justify-content: space-around;}
 article{margin-top: 30px;}
 section.apropos{background-color: #f2f2f2;}
+li{list-style: none;}
+ul.footer{
+    display: flex;
+    justify-content: space-around;
+}
