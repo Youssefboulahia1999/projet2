@@ -33,30 +33,42 @@ div.ha{text-align:;border-radius:30px; width: 1100px; height: 900px; background-
 div.tt{margin-left: 20px;}
 section.l1{display: flex;justify-content: space-around;margin-top: 50px;}
 article.hebergements{background-color: white; margin: 15px; border-radius:30px;box-shadow: 5px 5px 5px black}
+article:hover {background-color: gold;}
 article.port{background-color: white;margin: 15px; border-radius:30px;box-shadow: 5px 5px 5px black}
+article:hover {background-color: gold;}
 article.mouettes{background-color: white;margin: 15px; border-radius:30px;box-shadow: 5px 5px 5px black}
+article:hover {background-color: gold;}
 
 section.l2{display:flex; justify-content: space-around;margin-top: 50px; margin-bottom: 50px;}
 article.mer{background-color: white;margin: 15px; border-radius:30px;box-shadow: 5px 5px 5px black}
+article:hover {background-color: gold;}
 article.panier{background-color: white;margin: 15px; border-radius:30px;box-shadow: 5px 5px 5px black}
+article:hover {background-color: gold;}
 article.amina{background-color: white;margin: 15px; border-radius:30px;box-shadow: 5px 5px 5px black}
+article:hover {background-color: gold;}
 img.ha{ width: 300px; height: 150px;text-align: center;margin: 5px;border-radius:30px 30px 0px 0px;}
 
 section.hh{background-color: #f2f2f2;margin:20px;height: 900px; width: 600px; border-radius:30px;}
 article.apropos{background-color:#f2f2f2;}
 div.le {display:flex justify-content:space-around;}
 article.soleil{margin: 30px;border-radius:30px;box-shadow: 5px 5px 5px black; background-color: white;display: flex;margin-bottom: 50px;} div.sls{margin: 10px;}
+article:hover {background-color: gold;}
 article.eau{margin: 30px;border-radius:30px;box-shadow: 5px 5px 5px black; background-color: white;display: flex; margin-bottom: 50px;} div.sls1{margin: 10px;}
+article:hover {background-color: gold;}
 article.bleu{ margin: 30px;border-radius:30px;box-shadow: 5px 5px 5px black; background-color: white;display: flex;} div.sls2{margin: 10px;}
+article:hover {background-color: gold;}
 img.pp{width: 250px; height: 200px; border-radius:30px 0px 0px 30px;margin: 5px;}
 
 section.activites{width: 1850px;}
 section.re{display: flex;justify-content: space-around; width: 1800px;}
 div.le{display: flex;margin: 10px; justify-content: space-between;}
 article.w1{box-shadow: 5px 5px 5px black; border-radius:30px; height: 600px;}
+
 article.w2{height: 600px;}
+
 article.w3{box-shadow: 5px 5px 5px black; border-radius:30px; height: 600px;}
 article.w4{height: 600px;}
+
 div.w1{box-shadow: 5px 5px 5px black; border-radius:30px}
 div.w2{box-shadow: 5px 5px 5px black; border-radius:30px;margin-top: 60px;}
 div.w3{box-shadow: 5px 5px 5px black; border-radius:30px}
