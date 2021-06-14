@@ -1,17 +1,16 @@
 
-body{font-family: "raleway"; }
+body{font-family:"raleway"; }
 img.res{width: 120px;}
 section.top-page{display: flex;align-items: center; justify-content: space-between; width: 1550px;}
 @media screen and (max-width:1300px) {
     section.top-page{display: block; width:500px;}
     }
 
-h1.sas{font-size: 25px;}
-h3.ii{font-size: 17px;}
-h3.ii{margin: 5px;}
+
 a{text-decoration: none;}
 h3{margin:0px;margin-top: 5px;}
-h4{margin:0px;}
+h4{margin:0px;margin-top:10px;}
+h5{margin:0px;}
 
 ul.navigation {display: flex;list-style-type: none;align-items: center;}
 
@@ -43,7 +42,7 @@ div.ic{display:flex; align-items: center;margin: 10px;}
 header{width:500px;}}
 
 section.gg{display: flex; align-items: center; width: 1550px;}
-@media screen and (max-width: 1300px) {section.gg{display: block;width: 500px;}flex-direction:row-reverse;}
+@media screen and (max-width: 1300px) {section.gg{display: block;width: 500px;}}
 
 div.ha{border-radius:30px; width: 980px;  background-color:#f2f2f2; margin: 10px;}
 @media screen and (max-width: 900px) {div.ha{ width: 400px; height: auto; margin-left:50px;background-color:#fff; margin-right:50px;}
