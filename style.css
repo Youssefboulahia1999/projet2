@@ -2,7 +2,7 @@
 body{font-family:"raleway";display:block;margin:0px;width: 100%; }
 img.res{width: 120px;}
 section.top-page{display: flex;align-items: center; justify-content: space-between; width: 1550px;}
-
+div.tnt{display: flex;align-items: center;}
 
 a{text-decoration: none;}
 h3{margin:0px;margin-top: 5px;}
@@ -21,11 +21,12 @@ input.ia{width: 150px; height: 50px; border: none; border-radius: 0 15px 15px 0;
 div.filtres{display: flex; margin: 10px; width:100%; align-items: center;}
 
 
-div.rap{background-color:#deebff;border-radius:44px;height:44px;width:44px;text-align: center;}
+div.rap{background-color:#deebff;border-radius:44px;height:44px;width:44px;text-align: center; position: absolute;}
 i{font-size: 20px;}
-button.fil{ border: none; font-size: 15px; font-size: 20px; background-color: white;}
+button.fil{ border: none; font-size: 15px; font-size: 20px; background-color: white;margin-left: 50px;}
 div.ec{ margin-left:15px;margin-top: 10px; border: 1px black solid;display: flex;align-items: center; border-radius: 30px; width: 200px; height: 42px;}
 div.bo{ margin-left:15px;margin-top: 10px; border: 1px black solid;display: flex;align-items: center;border-radius: 30px; width: 160px; height: 42px;}
+div.rap-item {position: relative;margin-top:12px;display: block;}
 div.ro{ margin-left:15px;margin-top: 10px; border: 1px black solid;display: flex;align-items: center;border-radius: 30px; width: 200px; height: 42px; }
 div.ch{ margin-left:15px;margin-top: 10px; border: 1px black solid;display: flex;align-items: center;border-radius: 30px; width: 300px; height: 42px; }
 
@@ -99,7 +100,12 @@ li{list-style: none;margin: 20px;}
 
 
 @media screen and (max-width:1300px) {
-section.top-page{display: block; width:100%;}
+section.top-page{width:80%;}
+div.tnt2{position:absolute;top:50px;left:20%;}
+div.tnt2:hover {
+    background-color:#deebff;
+  }
+div.tnt1{position:absolute;top: 50px; left:60%;}
 div.re{width:90%;margin-left:10px;}
 input.ia{width:90%;}
 input.ii{width:90%;}
@@ -114,14 +120,14 @@ button.fil{width:90%;}
 div.bo{width:90%;}
 div.ro{width:90%;}
 div.ch{width:90%;}}
-@media screen and (max-width: 900px){section.rechercher{width: 100%;}
-section.top-page{width:100%;}
-ul.navigation{width: 90%;margin:0px;}
-li.papa{width:90%;}
+@media screen and (max-width: 900px){section.rechercher{width: 100%;}section.top-page{width:100%;}
+ul.navigation{width: 80%;margin-right:90%;display: block;padding:0px;}
+li{width:90%;}
+button{width:90%;}
 a.nav{width:90%;}
 header{width:100%;}
 }
-@media screen and (max-width: 1300px) {section.gg{display: block;width:90%;}}
+@media screen and (max-width: 1400px) {section.gg{display: block;width:90%;}}
 @media screen and (max-width: 900px) {div.ha{ width:100%; height: auto;background-color:#fff;align-items: center;}}
 @media screen and (max-width: 900px) {section.l1{height:auto; display: block;width:90%; align-items: center;margin:0px;margin-left:20px;}}   
 
