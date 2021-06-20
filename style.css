@@ -105,7 +105,7 @@ li{list-style: none;margin: 20px;}
 
 @media screen and (max-width:1300px) {
 section.top-page{width:80%;}
-div.tnt{position:absolute;top:45git px;text-align:center; left:0%;width:100%;justify-content: space-around;}
+div.tnt{position:absolute;top:45px;text-align:center; left:0%;width:100%;justify-content: space-around;}
 a.nav1{align-items:center;width: 100%;}
 a.nav1:hover{border-bottom:3px solid #0065FC;color:#0065FC;}
 div.re{width:90%;margin-left:10px;}
