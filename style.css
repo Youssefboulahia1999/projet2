@@ -129,10 +129,10 @@ a.nav{width:90%;}
 header{width:100%;}
 }
 @media screen and (max-width: 1400px) {section.gg{display: block;width:90%;}}
-@media screen and (max-width: 900px) {section.hébergements{ width:100%; height: auto;background-color:#fff;align-items: center;}}
-@media screen and (max-width: 900px) {section.l1{height:auto; display: block;width:90%; align-items: center;margin:0px;margin-left:20px;}}   
+@media screen and (max-width: 1000px) {section.hébergements{ width:100%; height: auto;background-color:#fff;align-items: center;}}
+@media screen and (max-width: 1000px) {section.l1{height:auto; display: block;width:90%; align-items: center;margin:0px;margin-left:20px;}}   
 
-@media screen and (max-width: 900px) {section.l2{display: block;width:90%;align-items: center;margin:0px;margin-left:20px;}
+@media screen and (max-width: 1000px) {section.l2{display: block;width:90%;align-items: center;margin:0px;margin-left:20px;}
 article.hebergements{width:90%; height:300px;margin:0px; margin-top: 10px;}
 article.port{width:90%; height:300px;margin:0px;margin-top: 10px;}
 article.mouettes{width:90%; height:300px;margin:0px;margin-top: 10px;}
