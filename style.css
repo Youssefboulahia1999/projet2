@@ -169,6 +169,7 @@ article.ppi{width:90%; height: 265px;margin-top: 35px;margin-bottom: 35px;margin
 img.ia{width:100%; height: 200px;}
 img.ii{width:100%;}}
 @media screen and (max-width:1200px){section.apropos{display: block; width:100%;height: auto;}
-ul.aaa{margin-bottom:20px;width:90%;padding:0%;text-align: center;}
+ul.aaa{margin:0px;width:100%;padding:0%;text-align: center;}
+li.ti{margin-top:10px;}
 li{margin:5px ;} 
 footer{width:100%;height:100%;}} 
