@@ -1,11 +1,11 @@
 
 body{font-family:"raleway";display:block;margin:0px;width: 100%; }
-img.res{width: 120px;margin-left:1%;}
+img.res{width: 120px;margin-left:2%;}
 section.top-page{display: flex;align-items: center; justify-content: space-between; width:100%;}
 div.tnt{display: flex;align-items: center;}
 
-h2.sas{margin-left:1%}
-h3.ii{margin-left:1%;}
+h2.sas{margin-left:2%}
+h3.ii{margin-left:2%;}
 a{text-decoration: none;}
 h3{margin:0px;margin-top: 5px;}
 h4{margin:0px;margin-top:10px;}
