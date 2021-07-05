@@ -1,9 +1,11 @@
 body{font-family:"raleway";display:block;margin:0px;width: 100%; }
 img.res{width: 120px;margin-left:1%;}
 section.top-page{display: flex;align-items: center; justify-content: space-between; width:100%;}
-div.tnt{display: flex;align-items: center;}
-a.nav{color:#0065FC;}
-a.nav1:hover{border-top:3px solid #0065FC;color:#0065FC;}
+a.nav{color:#0065FC;margin-left:20px;}
+div.tnt1:hover{border-top:3px solid #0065FC;color:#0065FC;}
+div.tnt1{height:59px;width:104%;text-align: center; padding-top:20px;margin-left:20px;margin-right:20px;}
+li.papa2{margin:20px;}
+ol.tnt{display:flex;height:59px;}
 
 h2.sas{margin-left:1%}
 h3.ii{margin-left:1%;margin-bottom:15px;}
@@ -114,18 +116,19 @@ div.w5{width:30%;}
 div.w6{width:30%;}
 div.w7{width:30%;}
 li.ti{font-size: 25px;}
-li{list-style: none;margin: 20px;}
+li{list-style: none;}
+li.rr{margin-top:15px;}
 
 
 
-
-
-@media screen and (max-width:1400px) {
-section.top-page{width:90%;}
-div.tnt{position:absolute;top:60px;text-align:center; left:0%;width:100%;justify-content: space-around;}
+@media screen and (max-width:1400px){
+section.top-page{width:100%;}
+ol.tnt{position:absolute;top:60px;text-align:center; left:0%;width:100%;justify-content: space-around;padding:0px;height:30px;}
 a.nav1{align-items:center;width: 100%;border-bottom:3px solid #f2f2f2;}
-a.nav1:hover{border-bottom:3px solid #0065FC;color:#0065FC;border-top:none;}
-
+div.tnt1{margin:0px;width:100%;height:30px;border-bottom:solid 3px #f2f2f2;}
+div.tnt1:hover{border-bottom:3px solid #0065FC;color:#0065FC;border-top:none;}
+li.papa1{width:100%;margin:0px;padding:0px;}
+li.papa1:hover{border-top:none;}} 
 @media screen and (max-width:1400px){
 section.gg{display: block;width:90%; margin-left: auto;margin-right: auto;}
 h2.sas{margin-top:50px;}
@@ -205,10 +208,10 @@ div.sls2{width:50%;}
 @media screen and (max-width:365px){
     img.fff2{margin-top:5%;}
     div.ecbo{display:block;}
-    div.ec{width:100%;}
-    div.bo{width:100%;}
-    div.ro{width:100%;}
-    div.ch{width:100%;}}
+    div.ec{width:80%;}
+    div.bo{width:80%;}
+    div.ro{width:80%;}
+    div.ch{width:80%;}}
 }
 
 @media screen and (max-width: 1500px){
