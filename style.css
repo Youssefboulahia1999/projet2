@@ -1,4 +1,4 @@
-body{font-family:"raleway";display:block;margin:0px;width: 100%; }
+body{font-family:"raleway";display:block;margin:0px;width:100%;}
 img.res{width: 120px;margin-left:1%;}
 section.top-page{display: flex;align-items: center; justify-content: space-between; width:100%;}
 a.nav{color:#0065FC;margin-left:20px;}
@@ -17,18 +17,22 @@ h5{margin:0px;}
 ul.navigation {display: flex;list-style-type: none;align-items: center;}
 
 div.re{width: 450px; height: 52px; background-color: #f2f2f2; display: flex;margin: 5px;margin-left:1%; align-items: center; border-radius: 15px;}
-img.icone{width: 25px; height: 30px; margin-left: 10px; margin-right: 10px;}
-input{position: relative; display: inline-block; box-sizing: border-box;}
+div.icone{font-size:20px; color:black;width: 25px; height: 30px; margin-left: 10px; margin-right: 10px;margin-top:10px;}
+div.rgg{position:relative; color:white;margin-left:auto;margin-right:auto;}
+input{position:relative; display: inline-block; box-sizing: border-box;}
 input.ii{background-color: #fff; width: 250px; height:50px; border: none; padding: 0 15px; font-size: 20px;font-weight: bold;}
 input.ia{width: 100%; height: 50px; border: none; border-radius: 0 15px 15px 0; background-color:#0065FC; color: white; font-size: 20px;}
 div.rgg{display:none;}
 
+div.star{font-size:15px; width:100%; height:10px; display:flex;margin-top:10px;margin-left:2%; color:#0065FC;}
+div.starb{color:#f2f2f2;}
 
-div.filtres{display: flex; margin-top:10px;margin-left:1%; width:80%; align-items: center;}
 
-div.rap{background-color:#deebff;border-radius:44px;height:44px;width:44px;text-align: center;position: absolute;}
+div.filtres{display:flex; margin-top:10px;margin-left:1%; width:80%; align-items: center;}
+
+div.rap{color:#0065FC ; background-color:#deebff;border-radius:44px;height:44px;width:44px;text-align: center;position: absolute;}
 div.rap-item {position: relative;margin-top:12px;display: block;}
-i{font-size: 20px;color:#0065FC;}
+
 button.fil{ border: none;font-size: 15px; background-color: white;margin-left: 50px;margin-right:5px;}
 div.ecbo{display: flex;}
 div.ec{ margin-left:15px;margin-top: 10px; border: 1px black solid;display: flex;align-items: center; border-radius: 30px; width: 200px; height: 42px;}
@@ -145,7 +149,8 @@ div.re{width:90%;margin-left:10px;}
 input.ia{display:none;}
 input.ii{width:80%;}
 a.rgg{width:15%;border-radius:15px;background-color:#0065FC;}
-div.rgg{display:flex;width:100%;height:50px;align-items: center;}
+div.rgg{display:flex;height:50px;align-items: center;}
+div.rgg{width:20px;padding-left:5%;padding-right:4%;}
 h2.sas{width:90%;}}
 
 
